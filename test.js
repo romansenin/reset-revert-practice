@@ -1,0 +1,1 @@
+console.logz("Syntax Error - Bad commit!");
